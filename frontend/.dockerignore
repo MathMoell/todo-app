@@ -1,0 +1,5 @@
+cat > frontend/.dockerignore << 'EOF'
+node_modules
+build
+.git
+EOF
